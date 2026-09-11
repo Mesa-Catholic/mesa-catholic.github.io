@@ -1,7 +1,7 @@
 - language: English
-  message: Hello, World!
+  message: Hello World!
 - language: Spanish
-  message: ¡Hola, Mundo!
+  message: ¡Hola Mundo!
 - language: French
   message: Bonjour le monde!
 - language: Japanese
