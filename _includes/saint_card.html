@@ -1,0 +1,15 @@
+<div class="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 group">
+    <div class="h-48 overflow-hidden relative">
+        <img src="{{ include.saint.image }}" alt="{{ include.saint.name }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+        <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+        <h3 class="absolute bottom-4 left-4 text-white text-2xl font-bold">{{ include.saint.name }}</h3>
+    </div>
+    <div class="p-6">
+        <p class="text-sm text-blue-600 font-semibold uppercase tracking-wider mb-2">{{ include.saint.title }}</p>
+        <p class="text-slate-600 mb-4 line-clamp-3">{{ include.saint.description }}</p>
+        <div class="border-t border-slate-100 pt-4 mt-auto">
+            <p class="text-sm text-slate-500"><span class="font-medium text-slate-700">Feast Day:</span> {{ include.saint.feast_day }}</p>
+            <p class="text-sm text-slate-500"><span class="font-medium text-slate-700">Patronage:</span> {{ include.saint.patronage }}</p>
+        </div>
+    </div>
+</div>

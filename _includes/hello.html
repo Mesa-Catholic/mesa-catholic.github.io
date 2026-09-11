@@ -1,0 +1,10 @@
+<div class="greeting-container">
+    <h2>Greetings</h2>
+    <ul class="greetings-list">
+        {% for greeting in site.data.greetings %}
+            <li>
+                <strong>{{ greeting.language }}:</strong> <span class="greeting-message">{{ greeting.message }}</span>
+            </li>
+        {% endfor %}
+    </ul>
+</div>

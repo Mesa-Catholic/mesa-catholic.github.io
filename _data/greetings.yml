@@ -1,0 +1,8 @@
+- language: English
+  message: Hello, World!
+- language: Spanish
+  message: ¡Hola, Mundo!
+- language: French
+  message: Bonjour le monde!
+- language: Japanese
+  message: こんにちは世界!

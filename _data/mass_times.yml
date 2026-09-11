@@ -1,0 +1,23 @@
+weekday:
+  - day: "Monday - Friday"
+    time: "8:00 AM"
+    language: "English"
+weekend:
+  - day: "Saturday Vigil"
+    time: "5:00 PM"
+    language: "English"
+  - day: "Sunday"
+    time: "8:00 AM"
+    language: "English"
+  - day: "Sunday"
+    time: "10:30 AM"
+    language: "English"
+  - day: "Sunday"
+    time: "1:00 PM"
+    language: "Spanish"
+confession:
+  - day: "Saturday"
+    time: "3:30 PM - 4:30 PM"
+adoration:
+  - day: "Wednesday"
+    time: "9:00 AM - 5:00 PM"

@@ -1,0 +1,20 @@
+- name: St. Peter
+  title: The Rock
+  feast_day: June 29
+  patronage: Popes, Rome, Fishermen
+  image: https://images.unsplash.com/photo-1618245842880-928e370aeb0d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60
+  description: The first Pope and the rock upon which Jesus built His Church. He holds the keys to the Kingdom of Heaven!
+
+- name: St. Carlo Acutis
+  title: God's Influencer
+  feast_day: October 12
+  patronage: Youth, Computer Programmers, the Internet
+  image: https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60
+  description: A joyful teenager who loved the Eucharist and used his coding skills to catalog Eucharistic miracles online!
+
+- name: St. Joan of Arc
+  title: The Maid of Orléans
+  feast_day: May 30
+  patronage: France, Soldiers
+  image: https://images.unsplash.com/photo-1582214309312-32135041f021?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60
+  description: A brave young woman who led the French army to victory guided by heavenly voices, showing incredible faith and courage.
